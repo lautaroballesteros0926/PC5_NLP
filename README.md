@@ -90,5 +90,3 @@ Declaro que comprendo el código, los resultados y las explicaciones entregadas 
 Si utilicé herramientas de IA, las use como apoyo para redacción, depuración o consulta, pero la implementación final, la interpretación técnica y la defensa del trabajo son responsabilidad mia.
 ```
 
-**Trazabilidad y uso de herramientas de IA en esta práctica**:
-- Se utilizó IA para refinar la presentación
