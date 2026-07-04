@@ -1,0 +1,7 @@
+jupyterlab
+torch==2.4.1
+transformers
+accelerate
+bitsandbytes
+pandas
+numpy

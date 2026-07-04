@@ -1,0 +1,28 @@
+.git
+.gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+.envrc
+.DS_Store
+Thumbs.db
+
+# Datos y salidas pesadas
+data/raw/
+data/interim/
+data/processed/
+outputs/
+models/
+checkpoints/
+wandb/
+mlruns/
+
+# Archivos temporales
+*.log
+*.tmp
+*.swp
