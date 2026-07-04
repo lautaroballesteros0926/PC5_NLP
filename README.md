@@ -33,7 +33,7 @@ Además, se midió de forma empírica y comparativa cómo estas optimizaciones r
    ```
 2. **Ejecutar el contenedor**:
    ```bash
-   docker run -p 8891:8891 -v $(pwd):/workspace nlp-pc5
+   docker run -it --rm -p 8891:8891 -v "${PWD}:/workspace" nlp-pc5
    ```
 3. **Acceder a Jupyter Lab**:
    Abre un navegador web en `http://localhost:8891` y ejecuta todas las celdas del archivo `PC5_Proyecto8.ipynb`.
