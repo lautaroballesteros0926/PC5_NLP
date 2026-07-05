@@ -82,5 +82,4 @@ Si utilicé herramientas de IA, las use como apoyo para redacción, depuración 
 
 **Uso específico de herramientas de IA en esta entrega**:
 - Utilicé IA para auditar la claridad técnica de la redacción en el README.
-- Utilicé IA para identificar que GPT-2 usa `Conv1D` en vez de `nn.Linear` y diseñar la conversión previa a cuantización.
 - La implementación del pipeline de medición, la interpretación de resultados y la defensa técnica son propias.
